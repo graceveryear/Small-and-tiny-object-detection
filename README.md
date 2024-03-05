@@ -1,12 +1,9 @@
 
 # Description
-
 This repository is a review/survey of small object detection (SOD) or tiny object detection (TOD).
 
 
-
 # Table of Contents
-
 * [Selected-Surveys-Chinese](#Selected-Surveys-Chinese)
 * [Selected-Surveys-English](#Selected-Surveys-English)
 * [Section1](#Section1)
@@ -15,14 +12,23 @@ This repository is a review/survey of small object detection (SOD) or tiny objec
 * [Others](#others)
 
 
-
 # Selected-Surveys-Chinese
 
-Update as soon as possible
+*基于深度学习的小目标检测研究与应用综述（电子学报2020）[[Paper]]( https://kns.cnki.net/kcms2/article/abstract?v=vYzgd5_tBo8_whF6s4dRd_wTeR6l3xNYLAsZWBLKBYSu6hEVrLY-g6CCdimsvHYElpzkvB1se8ftsUFpajC1wYsgEAE_Pja_MPLlINOIdlkJqjOUwiqQ63fgAyFwf2jFtLkfRgOK1n0=&uniplatform=NZKPT&language=CHS)
+
+*小目标检测研究进展（数据采集与处理2021）[[Paper]]( https://kns.cnki.net/kcms2/article/abstract?v=vYzgd5_tBo8yXLqmzd9kLw3r3khh2YNTBnlreOCsVAkV3Oc6bajAkThbRpUEyYy35UqCo3YVfIqQ0H8l4BvUXORlKQPSL871iHn47z_hJ0w1GO68xBlDvU_A06QDvNYZ4JfCP8v_o3M=&uniplatform=NZKPT&language=CHS)
+
+*基于深度学习的小目标检测研究进展（航空学报2021）[[Paper]]( https://kns.cnki.net/kcms2/article/abstract?v=vYzgd5_tBo8RTgUA3cBpkADgQciUxVz0Q3FLQVjh5leuUtdz4g9Oas6Z1oOihiPo9n1UVLKmnwwT6Y-TuTTox0547YHwijlaFltaDAN8Ll1ncXI5hUIZMVC38zro0ixekefhb6PXUY4=&uniplatform=NZKPT&language=CHS)
+
+*小目标检测研究综述（中国图象图形学报2023）[[Paper]]( https://kns.cnki.net/kcms2/article/abstract?v=vYzgd5_tBo9rvXUnC8mZwuP6sTPTqw1EreHHbtnucY03MTF-f_gDl2FopdFLkowpqhae8NvAPTMhK5PSfwfeRSIkuciEUz5q3g90xBquUQumPT6zPfB_Z3FiyRODGjVmPpKN5XJq-Ng=&uniplatform=NZKPT&language=CHS)
+
+*遥感影像小目标检测研究进展（中国图象图形学报2023）[[Paper]]( https://kns.cnki.net/kcms2/article/abstract?v=vYzgd5_tBo_JNoE1uh7-RPPhn5mNZcHThbd5UbiAnSy2-xN8DznZ6fGYae99XkE6-jn-E9XZ5hlH7zk1_nT7n-5PmkgOCJK8k3cmw2XBQ4JuXX7pNIULfhsLZ86eEavtBb8K6r4v4VI=&uniplatform=NZKPT&language=CHS)
 
 
 
 # Selected-Surveys-English
+
+* Transformers in small object detection: a benchmark and survey of state-of-the-art [[Paper]](https://doi.org/10.48550/arXiv.2309.04902)
 
 * Towards large-scale small object detection: survey and benchmarks [[Paper]](https://ieeexplore.ieee.org/document/10168277)
 
@@ -36,6 +42,9 @@ Update as soon as possible
 
 
 
+Our two papers: 
+[[Recent advances in small object detection based on deep learning: A review]](https://doi.org/10.1016/j.imavis.2020.103910)
+[[Deep learning-based detection from the perspective of small or tiny objects: A survey]](https://doi.org/10.1016/j.imavis.2022.104471)
 
 # Section1
 
@@ -64,7 +73,6 @@ Update as soon as possible
   >2.2.7 [Schemes based on loss function](#2.2.7)
    
 
-
 # Section2
 
 1. [Methods for small object detection](#1)   
@@ -77,7 +85,6 @@ Update as soon as possible
 >1.4 [Context-based detection](#1.4)
 >
 >1.5 [GAN-based detection](#1.5)
-
 
 
 # Citation
@@ -104,7 +111,6 @@ year = {2022},
 author = {Kang Tong and Yiquan Wu},
 }
 ``````````````````````````````
-
 
 
 # Others
