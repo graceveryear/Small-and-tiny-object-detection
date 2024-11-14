@@ -12,6 +12,8 @@ This repository is a review/survey of small object detection (SOD) or tiny objec
 
 
 # Selected-Surveys-Chinese
+* (7) 航空学报-2024年 [[基于深度学习的无人机航拍图像小目标检测研究进展]]( https://kns.cnki.net/kcms2/article/abstract?v=th5-mUcNE0NPU5qXrDIlBZwqZj-pVXc3YTYkSqHRunBvV1BLWtmD5B99zk6uZ__eNhMGgb3j5P-S6TTQELrC97F0RkSXzCqU0wwc6MxVmyqB54EcgdqqoXMXRvkEeDO20LSgYKRfJDOIkzcHRvN3Ga5tR4t4Bom87FN3G7l5K7bDOszoN9Q5PQt5Rw6BKmT4&uniplatform=NZKPT&language=CHS)
+
 * (6) 电子学报-2024年 [[基于深度学习的小目标检测基准研究进展]]( https://kns.cnki.net/kcms2/article/abstract?v=axnrJTP8flwjV7ixbHe2t1Nx3wDFRBa3l51W7hfPQMDomJr8pOjW29W8heX_LJA8F4RUoj5WlO1A2KZDHBBmPrth103m2k6Sy1aCB-DKjj76sBC5Zkjs0AY4wv1SvR5hhyhVN2T7e4ioETV9MAWnJiaMI_PjWd0l&uniplatform=NZKPT&language=CHS)
 
 * (5) 中国图象图形学报-2023年 [[小目标检测研究综述]]( https://kns.cnki.net/kcms2/article/abstract?v=vYzgd5_tBo9rvXUnC8mZwuP6sTPTqw1EreHHbtnucY03MTF-f_gDl2FopdFLkowpqhae8NvAPTMhK5PSfwfeRSIkuciEUz5q3g90xBquUQumPT6zPfB_Z3FiyRODGjVmPpKN5XJq-Ng=&uniplatform=NZKPT&language=CHS)
